@@ -1,9 +1,9 @@
 # ProjectRepo
 Data Analytics Bootcamp Class Project
 
-Housing Market\n
-Members: Carlos Cocuy, Ryan Joseph, Kyron Harold, John Fowler \n
-Overview: What major economic factors drive the housing market?\n
+Housing Market
+Members: Carlos Cocuy, Ryan Joseph, Kyron Harold, John Fowler 
+Overview: What major economic factors drive the housing market?
 # Questions:
   -	How are home sales effected by federal interest rate?
   -	How does inflation affect our data?
