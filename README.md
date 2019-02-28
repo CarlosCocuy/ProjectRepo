@@ -2,7 +2,7 @@
 Data Analytics Bootcamp Class Project
 
 Housing Market
-Members: Carlos Cocuy, Ryan Joseph, Kyron Harold, John Fowler 
+Members: Carlos Cocuy, Ryan Joseph, Kyron Harold, John Fowler
 Overview: What major economic factors drive the housing market?
 # Questions:
   -	How are home sales effected by federal interest rate?
