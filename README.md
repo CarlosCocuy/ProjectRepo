@@ -13,6 +13,7 @@ Overview: What major economic factors drive the housing market?
   -	Fannie Mae: https://developer.theexchange.fanniemae.com/public-apis/housing-pulse/documentation#housing%20pulse
   -	Zillow: https://www.zillow.com/research/data/
   - Iowa State University: https://www.icip.iastate.edu/tables/employment/unemployment-states
+  - Census: https://www.census.gov/construction/nrs/historical_data/index.html
 # Rough Breakdown of Tasks:
   -	Ryan: breakdown and organize Fannie Mae data
   -	John: look at Kaggle
