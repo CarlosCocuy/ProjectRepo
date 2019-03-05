@@ -10,8 +10,6 @@ Overview: What major economic factors drive the housing market?
   -	How does employment rate affect housing sales?
 # Data:
   -	Federal Reserve: https://www.kaggle.com/federalreserve/interest-rates
-  -	Fannie Mae: https://developer.theexchange.fanniemae.com/public-apis/housing-pulse/documentation#housing%20pulse
-  -	Zillow: https://www.zillow.com/research/data/
   - Iowa State University: https://www.icip.iastate.edu/tables/employment/unemployment-states
   - Census: https://www.census.gov/construction/nrs/historical_data/index.html
 # Rough Breakdown of Tasks:
