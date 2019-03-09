@@ -1,8 +1,8 @@
 # ProjectRepo
 Data Analytics Bootcamp Class Project
 
- Open PDF for Write-up
- Prezzi: https://prezi.com/view/E1FZDuBRH68PMljCzpEM/
+Open PDF for Write-up
+Prezzi: https://prezi.com/view/E1FZDuBRH68PMljCzpEM/
 
 Housing Market
 Members: Carlos Cocuy, Ryan Joseph, Kyron Harold, John Fowler
