@@ -1,6 +1,8 @@
 # ProjectRepo
 Data Analytics Bootcamp Class Project
 
+# Open PDF for Write-up
+
 Housing Market
 Members: Carlos Cocuy, Ryan Joseph, Kyron Harold, John Fowler
 Overview: What major economic factors drive the housing market?
